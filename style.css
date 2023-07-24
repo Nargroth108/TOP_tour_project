@@ -40,3 +40,8 @@ ul a {
     font-weight: 900;
     color: #F9FAF8;
 }
+
+button {
+    background-color: #3882F6;
+    color: inherit;
+}
