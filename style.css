@@ -28,11 +28,15 @@ ul a {
 
 .logo {
     margin-right: auto;
+    font-size: 18px;
 }
 
 .header-content {
     display: flex;
+    justify-content: center;
     margin-top: 64px;
+    margin-bottom: 64px;
+    gap: 18px;
 }
 
 .header-title {
