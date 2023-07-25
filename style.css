@@ -82,6 +82,8 @@ button {
 }
 
 .quote {
+    text-align: center;
+    padding: 58px;
     background-color: #E5E7EB;
     font-size: 36px;
     font-style: italic;
@@ -89,6 +91,7 @@ button {
 }
 
 .quote-author {
+    text-align: right;
     font-size: 28px;
     font-weight: bold;
     font-style: normal;
