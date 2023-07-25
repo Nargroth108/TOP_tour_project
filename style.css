@@ -52,4 +52,10 @@ button {
 
 .information {
     color: #1f2937;
+    text-align: center;
+}
+
+.information-title {
+    font-size: 36px;
+    font-weight: 900;
 }
