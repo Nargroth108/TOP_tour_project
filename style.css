@@ -34,8 +34,8 @@ ul a {
 .header-content {
     display: flex;
     justify-content: center;
-    margin-top: 64px;
-    margin-bottom: 64px;
+    margin-top: 32px;
+    margin-bottom: 32px;
     gap: 18px;
 }
 
@@ -48,6 +48,7 @@ ul a {
 button {
     background-color: #3882F6;
     color: inherit;
+    border-radius: 25px;
 }
 
 .information {
@@ -60,11 +61,17 @@ button {
     font-weight: 900;
 }
 
-.information-container {
+.information-content {
     display: flex;
+   justify-content: center;
+    gap: 12px;
 }
 
 .information img {
     width: 300px;
     height: auto;
+    border-radius: 25px;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
 }
