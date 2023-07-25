@@ -101,18 +101,24 @@ button {
 
 .quest {
     margin-top: 42px;
-    padding: 64px;
+    padding: 128px;
 }
 .quest-box {
+    border-radius: 25px;
     display: flex;
     background-color: #3882F6;
-    padding: 48px;
+    padding: 48px 96px;
     justify-content: space-between;
     align-items: center;
+    color: white;
 }
 
 #quest-button {
     flex-grow: 0;
     border: 2px solid white;
-    color: white;
+}
+
+.quest-title {
+    font-size: 24px;
+    font-weight: 600;
 }
