@@ -116,6 +116,7 @@ button {
 #quest-button {
     flex-grow: 0;
     border: 2px solid white;
+    font-size: 18px;
 }
 
 .quest-title {
