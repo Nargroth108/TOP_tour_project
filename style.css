@@ -59,3 +59,12 @@ button {
     font-size: 36px;
     font-weight: 900;
 }
+
+.information-container {
+    display: flex;
+}
+
+.information img {
+    width: 300px;
+    height: auto;
+}
